@@ -5,7 +5,7 @@ This is a python code to detect lane lines in a video. It uses the OpenCV and mo
 
 To run this code, you need to have the following libraries installed:
 
-OpenCV
+-OpenCV
 
 -Numpy
 
